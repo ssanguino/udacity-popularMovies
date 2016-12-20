@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="pref_sort_label_popular">Most popular</string>
+    <string name="pref_sort_label_rated">Highest rated</string>
+    <string name="pref_sort_popular" translatable="false">popular</string>
+    <string name="pref_sort_rated" translatable="false">top_rated</string>
+    <string name="pref_sorting_key" translatable="false">sorting</string>
+    <string name="pref_sorting_default" translatable="false">popular</string>
+    <string name="movie_object_intent" translatable="false">movieObject</string>
+    <string name="title_activity_details">Details</string>
+    <string name="internet_connection_needed">An active internet connection is needed to download information about movies!</string>
+    <string name="sort_by_spinner_title">Sort by</string>
+    <string name="details_image_description">Movie poster</string>
+</resources>
